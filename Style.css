@@ -1,0 +1,15 @@
+.card {
+    width: 250px;
+    min-height: 230px;
+    border: 1px solid grey;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+img {
+    width: 130px;
+    height: 120px;
+}
+.card-area {
+    display: flex;
+    flex-wrap: wrap;
+}
